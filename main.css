@@ -457,11 +457,11 @@
   }
   
   .skills-content .right .cpp::before {
-    width: 60%;
+    width: 50%;
   }
   
   .skills-content .right .js::before {
-    width: 50%;
+    width: 60%;
   }
   
   .skills-content .right .flutter::before {
