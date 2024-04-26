@@ -471,6 +471,10 @@
   .skills-content .right .dart::before {
     width: 60%;
   }
+
+  .skills-content .right .tailwind::before {
+    width: 50%;
+  }
   
   /*  Projects  */
   .projects .title::after {
