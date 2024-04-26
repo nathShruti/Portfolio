@@ -67,13 +67,19 @@
   }
   
   .about .about-content,
-  .services .serv-content,
   .skills .skills-content,
   .contact .contact-content {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+  }
+
+  .services .serv-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
   }
   
   section .title {
@@ -466,6 +472,10 @@
   
   .skills-content .right .tailwind::before {
     width: 50%;
+  }
+
+  .skills-content .right .react::before {
+    width: 60%;
   }
   
   /*  Projects  */

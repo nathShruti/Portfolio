@@ -42,7 +42,6 @@ $(document).ready(function () {
       strings: [
         "Frontend Developer",
         "Software Developer",
-        "Flutter Developer",
         "Photographer",
         "Videographer"
       ],
@@ -56,7 +55,6 @@ $(document).ready(function () {
       strings: [
         "Frontend Developer",
         "Software Developer",
-        "Flutter Developer",
         "Photographer",
         "Videographer"
       ],
